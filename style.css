@@ -49,7 +49,7 @@ header#main-header h1{
 }
 
 .box {
-	background-color: var(--box-bg-color);
+    background-color: var(--box-bg-color);
     padding: var(--box-padding);
     border: 1px solid var(--box-main-color);
     box-shadow: 
